@@ -1,0 +1,10 @@
+{
+    "agents": [
+        "gemini"
+    ],
+    "editors": [
+        "phpstorm"
+    ],
+    "guidelines": [],
+    "herd_mcp": true
+}
